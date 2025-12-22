@@ -8,7 +8,7 @@ We welcome contributions of all kinds: bug reports, feature requests, documentat
 ## 📝 How to Contribute
 
 ### 1. Reporting Issues
-- Check the existing [Issues](https://github.com/yourusername/yourproject/issues) first to see if your problem or suggestion already exists.
+- Check the existing [Issues](https://github.com/veliqq/explipy/issues) first to see if your problem or suggestion already exists.
 - If not, open a new issue and provide:
   - A clear description of the problem or feature
   - Steps to reproduce (if applicable)
@@ -31,7 +31,6 @@ We love pull requests! 💖 Here's how to make them smooth:
 2. **Create a branch** for your work:
    ```bash
    git checkout -b feature/your-feature-name
-
 
 3. Make your changes with clear, readable code.
 4. **Follow the project’s coding style** (PEP 8 for Python projects).
