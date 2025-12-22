@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "explipy"
+version = "0.1.0"
+description = "Human-readable exception explanations for Python, including NumPy, Pandas, and requests."
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+    {name = "veliqq", email = "veliqorg@proton.me"}
+]
+keywords = ["python", "exceptions", "traceback", "debugging", "error", "numpy", "pandas", "requests"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Topic :: Software Development :: Debuggers"
+]
+
+[project.urls]
+Homepage = "https://github.com/yourusername/explipy"
+Repository = "https://github.com/yourusername/explipy"
+Documentation = "https://github.com/yourusername/explipy#readme"
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "black",
+    "isort"
+]
