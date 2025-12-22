@@ -31,7 +31,7 @@ We love pull requests! 💖 Here's how to make them smooth:
 2. **Create a branch** for your work:
    ```bash
    git checkout -b feature/your-feature-name
-``
+
 
 3. Make your changes with clear, readable code.
 4. **Follow the project’s coding style** (PEP 8 for Python projects).
