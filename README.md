@@ -9,7 +9,7 @@ ExpliPy explains Python exceptions in plain English, including NumPy, Pandas, an
 
 - Explain Python built-ins and common library exceptions
 - Supports NumPy, Pandas, Requests
-- Drop-in `sys.excepthook`** for uncaught exceptions
+- Drop-in `sys.excepthook` for uncaught exceptions
 - Human-readable, beginner-friendly messages
 - Safe for production use
 - Lightweight, pure Python (no AI required)
